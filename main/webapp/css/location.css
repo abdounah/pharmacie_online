@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#map-frame {
+    height: 500px;
+    width: 100%;
+    background: #fff;
+}
+
+.btn {
+    width: 100%;
+    height: calc(100vh - 450px);
+    background: #eee;
+}
